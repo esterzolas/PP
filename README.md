@@ -1,2 +1,2 @@
 # PPlabs
-Repositório para aulas de Programação Procedimental
+Repository for college course
